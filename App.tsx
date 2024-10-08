@@ -30,7 +30,8 @@ export default function WebviewScreen() {
         // source={{uri: 'http://192.168.2.7:3000/chat?d_key=test'}}
         // source={{uri: 'http://127.0.0.1:3000/chat?d_key=test'}}
         source={{
-          uri: 'https://71e3-222-112-203-51.ngrok-free.app/chat?d_key=test',
+          // uri: 'https://ba80-222-112-203-51.ngrok-free.app/chat?d_key=test&is_debugging=true',
+          uri: 'https://oksoon-stage.buzzni.com/chat?d_key=test&is_debugging=true',
         }}
         // originWhitelist={['*']}
         // source={{uri: 'https://oksoon.buzzni.com/chat?d_key=test'}}
